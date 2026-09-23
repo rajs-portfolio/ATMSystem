@@ -1,15 +1,19 @@
-# ATM System
+# 🏧 ATM System
 
-A simple Java console application that simulates basic ATM operations.
+A simple **console-based ATM application built in Java** that simulates common banking operations. The project is designed to practice **Java fundamentals, user input, conditional statements, and basic program logic**.
 
-## Features
-- Check balance
-- Deposit money
-- Withdraw money
-- Exit the program
+## ✨ Features
 
-## Language Used
-- Java
+* 💰 Check account balance
+* ➕ Deposit money
+* 💸 Withdraw money
+* 🚪 Exit the application
+* 🔄 Interactive menu-driven interface
 
-## Author
-Raj Sharma
+## 🛠️ Technology Used
+
+* **Java**
+
+## 👨‍💻 Author
+
+**Raj Sharma**
