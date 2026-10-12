@@ -1,14 +1,14 @@
 # 🏧 ATM System
 
-A simple **console-based ATM System built with Java** that simulates basic banking operations. This project was developed to practice **Java programming fundamentals, user input, conditional statements, loops, and menu-driven program logic**.
+A simple **console-based ATM System developed using Java** that simulates essential banking operations through an interactive, menu-driven interface. This project was created to strengthen my understanding of **Java fundamentals, user input handling, control flow, loops, and basic banking logic**.
 
 ## ✨ Features
 
-* 💰 **Check Balance** — View the current account balance.
-* ➕ **Deposit Money** — Add money to the account.
-* 💸 **Withdraw Money** — Withdraw money from the available balance.
-* 🚪 **Exit** — Safely exit the application.
-* 🔄 **Interactive Menu** — Navigate through different banking operations using a simple menu.
+* 💰 **Check Balance** — Display the current account balance.
+* ➕ **Deposit Money** — Add funds to the account balance.
+* 💸 **Withdraw Money** — Withdraw funds while checking the available balance.
+* 🚪 **Exit** — Close the application safely.
+* 🔄 **Interactive Menu** — Navigate between banking operations using a user-friendly console menu.
 
 ## 🛠️ Technologies Used
 
@@ -16,12 +16,13 @@ A simple **console-based ATM System built with Java** that simulates basic banki
 
 ## 📚 Concepts Practiced
 
-* User Input
+* User Input and Output
 * Conditional Statements
-* Loops
-* Variables & Data Types
-* Basic Banking Logic
+* Loops and Control Flow
+* Variables and Data Types
+* Basic Banking Operations
 * Menu-Driven Programming
+* Problem-Solving and Logical Thinking
 
 ## 👨‍💻 Author
 
